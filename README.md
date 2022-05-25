@@ -7,6 +7,9 @@
 
 </a>
 
+![Metrics](https://metrics.lecoq.io/saiemgilani?template=classic&isocalendar=1&people=1&pagespeed=1&tweets=1&followup=1&activity=1&achievements=1&lines=1&repositories=1&gists=1&code=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=https%3A%2F%2Fsportsdataverse.org&pagespeed.detailed=true&pagespeed.screenshot=true&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FNew_York)
+
+
 Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
 
